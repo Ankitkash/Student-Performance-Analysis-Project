@@ -1,4 +1,4 @@
-# Student-Result-Analysis-Project
+# Student-Performance-Analysis-Project
 This project analyzes student test scores from a fictional public school, aiming to identify potential interaction effects of various personal and socio-economic factors on student performance. The dataset includes three test scores (Math, Reading, Writing) and features such as gender, ethnicity, parental education, lunch type, test preparation, and other demographic variables.
 
 ## Key Features:
